@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.BulGgv7r.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"prev":false,"next":false},"headers":[],"relativePath":"stories.md","filePath":"stories.md"}'),r={name:"stories.md"};function a(o,n,c,i,p,_){return s(),t("div")}const l=e(r,[["render",a]]);export{f as __pageData,l as default};
