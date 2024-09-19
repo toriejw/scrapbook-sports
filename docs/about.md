@@ -4,7 +4,7 @@ prev: false
 next: false
 ---
 
-# About us
+# About Us
 
 Hi there! Welcome to Scrapbook Sports!
 
