@@ -34,8 +34,6 @@ The old entrance to Ulster Stadium. Source: Scrapbook Sports.
 ![Image of Ulster Arms](../public/images/ulster_stadium/ulster_arms_2024.jpg)
 Ulster Arms tavern as it stands in 2024. Source: Scrapbook Sports.
 
----
-
 ## References
 
 ¹Waring, E. (1967, Apr 14). Pros await start: Sponsors see minor loops as key to soccer success. The Globe and Mail (1936-) Retrieved from https://ezproxy.torontopubliclibrary.ca/login?url=https://www.proquest.com/historical-newspapers/pros-await-start/docview/1270028293/se-2
