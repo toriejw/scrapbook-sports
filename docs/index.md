@@ -11,8 +11,7 @@ hero:
       link: /stories
 
 features:
-  - title: Ulster Stadium 
-    details: Coming soon!
+  - title: 'From Soccer to Softball: The Rise and Fall of Ulster Stadium'
     link: /stories/ulster-stadium
   - title: More stories coming soon!
     details: Have a story you'd like to share? Reach out!
