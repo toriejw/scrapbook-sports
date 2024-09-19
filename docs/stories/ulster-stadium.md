@@ -44,6 +44,7 @@ Ulster Arms tavern as it stands in 2024. Source: Scrapbook Sports.
 
 ⁴Stop! Look! Listen! (1933, Feb 25). Toronto Daily Star (1900-1971) Retrieved from https://ezproxy.torontopubliclibrary.ca/login?url=https://www.proquest.com/newspapers/page-14/docview/1433398622/se-2
 
+---
 
 Published: September 18, 2024  
 Updated: September 18, 2024
