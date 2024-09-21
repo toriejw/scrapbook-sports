@@ -5,6 +5,9 @@ layout: home
 hero:
   text: "Scrapbook Sports"
   tagline: "Sports stories from your grandma's scrapbook"
+  image:
+    src: /public/logo.png
+    alt: Scrapbook Sports logo
   actions:
     - theme: alt
       text: All stories

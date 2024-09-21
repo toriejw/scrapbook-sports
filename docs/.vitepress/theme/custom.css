@@ -1,0 +1,8 @@
+:root {
+  @media (min-width: 960px) {
+    .VPHero .image-src {
+      left: 10%;
+      max-height: 150px;
+    }
+  }
+}
