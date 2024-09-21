@@ -37,4 +37,18 @@ export default defineConfig({
     hostname: "https://scrapbooksports.com"
   },
   appearance: false,
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZ22RJFQJB' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZZ22RJFQJB');`
+    ],
+  ],
 })
