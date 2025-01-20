@@ -51,4 +51,5 @@ export default defineConfig({
       gtag('config', 'G-ZZ22RJFQJB');`
     ],
   ],
+  ignoreDeadLinks: true,
 })
